@@ -1,4 +1,6 @@
 {
 "version":"1.1",
+"newVersionMessage":"A new 300 Chat version is available for download in the 300 discord.",
+"newVersionColor":"#dfff52",
 "MOTD":"this is a test"
 }
