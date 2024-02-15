@@ -1,1 +1,1 @@
-"does this thing work?"
+print("does this thing work?")
